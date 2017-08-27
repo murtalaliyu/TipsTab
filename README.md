@@ -1,2 +1,2 @@
 # TipsTab
-Built google Chrome extension to show JS tips in new tabs by following the instructions on Codecademy.
+Built a google Chrome extension that shows JavaScript tips in new tabs by following the instructions on Codecademy.
